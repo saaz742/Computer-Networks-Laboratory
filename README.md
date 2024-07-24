@@ -1,5 +1,7 @@
 # Computer-Networks-Laboratory
-Computer Networks Laboratory course SUT Spring 2023
+Computer Networks Laboratory course - SUT 
+
+Spring 2023
 
   - [Projects](https://github.com/saaz742/Computer-Networks-Laboratory/tree/main/Projects)
       - [1 - Intro](https://github.com/saaz742/Computer-Networks-Laboratory/blob/main/Projects/netlab_1.pdf)
